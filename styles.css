@@ -1,0 +1,23 @@
+body {
+  background-color: powderblue
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 10px;
+  width: 10%;
+}
+
+h1 {
+  font: Arial;
+  font-variant: small-caps;
+  text-shadow: 2px 2px grey;
+  color: cadetblue;
+}
+
+h3 {
+  color: cadetblue;
+  font-variant: small-caps;
+}
